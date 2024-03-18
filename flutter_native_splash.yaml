@@ -1,0 +1,9 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/images/splash.png
+  android_gravity: cover
+  android_12:
+    color: "#FFFFFF"
+    image: assets/images/splash.png
+    android_gravity: cover
+
